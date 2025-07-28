@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-contract BIGFEMSToken {
-    string public name = "BIGFEMS";
-    string public symbol = "FEMS";
+contract Token {
+    string public name = "TOKEN";
+    string public symbol = "TKN";
     uint8 public decimals = 18;
     uint256 public totalSupply;
 
